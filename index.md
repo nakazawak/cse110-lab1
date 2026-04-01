@@ -37,6 +37,9 @@ Click here for an [awesome video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&li
 You reached the end of the page! Jump back into these sections:
 
 [Top of Page](#koji-nakazawas-user-page)
+
 [About me](#about-me)
+
 [Favorite Quote](#favorite-quote)
+
 [Awesome Video](#awesome-video)
